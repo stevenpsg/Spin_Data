@@ -1,1 +1,1 @@
-spin database
+set 1
