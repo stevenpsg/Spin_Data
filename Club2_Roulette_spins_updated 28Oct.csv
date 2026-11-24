@@ -1,0 +1,187 @@
+dealer,spin_no,winning_number,td_pocket,ball_direction,video_time_s,contact_time_s,td_quality,notes,td_to_winning_pockets
+Deborah,1,13,30,cw,7.2,7.167,user-confirmed (read from reading pages),P1 00:07.2 (reading-page frame time); read by user from reading-page frames,-3
+Deborah,2,4,13,ac,46.6,46.633,user-confirmed (read from reading pages),P1 00:46.6 (reading-page frame time); read by user from reading-page frames,-8
+Deborah,3,0,9,cw,83.4,83.433,user-confirmed (read from reading pages),P1 01:23.4 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,10
+Deborah,4,35,27,ac,122.1,122.133,user-confirmed (read from reading pages),P1 02:02.1 (reading-page frame time); read by user from reading-page frames,-14
+Deborah,5,16,33,cw,160.5,160.467,user-confirmed (read from reading pages),P1 02:40.5 (reading-page frame time); read by user from reading-page frames,-1
+Deborah,6,26,13,ac,199.8,199.833,user-confirmed (read from reading pages),P1 03:19.8 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-13
+Deborah,7,16,2,cw,239.2,239.2,user-confirmed (read from reading pages),P1 03:59.2 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,15
+Deborah,8,22,29,ac,276.7,276.667,user-confirmed (read from reading pages),P1 04:36.7 (reading-page frame time); read by user from reading-page frames,-2
+Deborah,9,6,4,cw,314.7,314.733,user-confirmed (read from reading pages),P1 05:14.7 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,6
+Deborah,10,32,10,ac,354.5,354.5,user-confirmed (read from reading pages),P1 05:54.5 (reading-page frame time); read by user from reading-page frames,-17
+Deborah,11,9,6,cw,394.4,394.433,user-confirmed (read from reading pages),P1 06:34.4 (reading-page frame time); read by user from reading-page frames,17
+Deborah,12,24,19,ac,434,433.967,user-confirmed (read from reading pages),P1 07:14.0 (reading-page frame time); read by user from reading-page frames,17
+Deborah,13,32,23,cw,470.3,470.3,user-confirmed (read from reading pages),P1 07:50.3 (reading-page frame time); read by user from reading-page frames,-16
+Deborah,14,3,11,ac,509.6,509.633,user-confirmed (read from reading pages),P1 08:29.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-16
+Deborah,15,13,7,cw,547.2,547.2,user-confirmed (read from reading pages),P1 09:07.2 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,18
+Deborah,16,11,27,ac,587.2,587.2,user-confirmed (read from reading pages),P1 09:47.2 (reading-page frame time); read by user from reading-page frames,3
+Deborah,17,25,30,cw,625.9,625.933,user-confirmed (read from reading pages),P1 10:25.9 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,-8
+Deborah,18,13,18,ac,664,664.033,user-confirmed (read from reading pages),P1 11:04.0 (reading-page frame time); read by user from reading-page frames,-17
+Deborah,19,21,31,cw,703.6,703.6,user-confirmed (read from reading pages),"P1 11:43.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; winning number: your sheet had 21, on-screen result and results history show 32; 32 used",12
+Deborah,20,8,28,ac,738.8,738.767,user-confirmed (read from reading pages),P1 12:18.8 (reading-page frame time); read by user from reading-page frames,-16
+Deborah,21,22,11,cw,779.2,779.2,user-confirmed (read from reading pages),P1 12:59.2 (reading-page frame time); read by user from reading-page frames,14
+Deborah,22,13,28,ac,818,818,user-confirmed (read from reading pages),P1 13:38.0 (reading-page frame time); read by user from reading-page frames,17
+Deborah,23,33,1,cw,857.8,857.8,user-confirmed (read from reading pages),P1 14:17.8 (reading-page frame time); read by user from reading-page frames,-1
+Deborah,24,16,11,ac,897.6,897.6,user-confirmed (read from reading pages),P1 14:57.6 (reading-page frame time); read by user from reading-page frames,7
+Deborah,25,35,12,cw,935.6,935.6,user-confirmed (read from reading pages),P1 15:35.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,1
+Deborah,26,21,30,ac,974.3,974.267,user-confirmed (read from reading pages),P1 16:14.3 (reading-page frame time); read by user from reading-page frames,-10
+Deborah,27,17,27,cw,1013.8,1013.8,user-confirmed (read from reading pages),P1 16:53.8 (reading-page frame time); read by user from reading-page frames,-3
+Deborah,28,18,0,ac,1050.9,1050.933,user-confirmed (read from reading pages),P1 17:30.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-8
+Deborah,29,36,28,cw,1088,1088,user-confirmed (read from reading pages),P1 18:08.0 (reading-page frame time); read by user from reading-page frames,18
+Deborah,30,27,24,ac,1127.4,1127.433,user-confirmed (read from reading pages),P1 18:47.4 (reading-page frame time); read by user from reading-page frames,-9
+Deborah,31,33,10,cw,1167.1,1167.067,user-confirmed (read from reading pages),P1 19:27.1 (reading-page frame time); read by user from reading-page frames,4
+Deborah,32,7,16,ac,1203.7,1203.667,user-confirmed (read from reading pages),P1 20:03.7 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,10
+Miran,33,33,10,cw,1259.3,1259.3,user-confirmed (read from reading pages),P1 20:59.3 (reading-page frame time); read by user from reading-page frames; first spin of a new dealer (longer gap before it),4
+Miran,34,5,16,ac,1297,1297,user-confirmed (read from reading pages),P1 21:37.0 (reading-page frame time); read by user from reading-page frames,-2
+Miran,35,11,32,cw,1334,1334,user-confirmed (read from reading pages),P1 22:14.0 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,13
+Miran,36,32,31,ac,1373.6,1373.567,user-confirmed (read from reading pages),P1 22:53.6 (reading-page frame time); read by user from reading-page frames,12
+Miran,37,30,23,cw,1411.4,1411.367,user-confirmed (read from reading pages),P1 23:31.4 (reading-page frame time); read by user from reading-page frames,-2
+Miran,38,2,30,ac,1451.2,1451.2,user-confirmed (read from reading pages),P1 24:11.2 (reading-page frame time); read by user from reading-page frames,-9
+Miran,39,20,21,cw,1488.7,1488.733,user-confirmed (read from reading pages),P1 24:48.7 (reading-page frame time); read by user from reading-page frames,-18
+Miran,40,34,19,ac,1526.7,1526.7,user-confirmed (read from reading pages),P1 25:26.7 (reading-page frame time); read by user from reading-page frames,6
+Miran,41,24,23,cw,1566.3,1566.3,user-confirmed (read from reading pages),P1 26:06.3 (reading-page frame time); read by user from reading-page frames,3
+Miran,42,17,24,ac,1606.7,1606.667,user-confirmed (read from reading pages),P1 26:46.7 (reading-page frame time); read by user from reading-page frames,-12
+Miran,43,16,0,cw,1643.1,1643.1,user-confirmed (read from reading pages),P1 27:23.1 (reading-page frame time); read by user from reading-page frames,-16
+Miran,44,17,18,ac,1682,1681.967,user-confirmed (read from reading pages),P1 28:02.0 (reading-page frame time); read by user from reading-page frames,16
+Miran,45,11,10,cw,1721.3,1721.3,user-confirmed (read from reading pages),P1 28:41.3 (reading-page frame time); read by user from reading-page frames,-4
+Miran,46,13,34,ac,1759.8,1759.767,user-confirmed (read from reading pages),P1 29:19.8 (reading-page frame time); read by user from reading-page frames,3
+Miran,47,17,22,cw,1797.4,1797.433,user-confirmed (read from reading pages),P1 29:57.4 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; next to a part boundary,17
+Miran,48,1,26,ac,1836.6,1836.567,user-confirmed (read from reading pages),P2 00:33.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-13
+Miran,49,1,27,cw,1877,1876.967,user-confirmed (read from reading pages),P2 01:14.3 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,12
+Miran,50,36,16,ac,1916.8,1916.767,user-confirmed (read from reading pages),P2 01:54.1 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-8
+Miran,51,20,15,cw,1956.1,1956.067,user-confirmed (read from reading pages),P2 02:33.4 (reading-page frame time); read by user from reading-page frames,-15
+Miran,52,29,2,ac,1994.8,1994.8,user-confirmed (read from reading pages),P2 03:12.1 (reading-page frame time); read by user from reading-page frames,-13
+Miran,53,17,7,cw,2037.4,2037.4,user-confirmed (read from reading pages),P2 03:54.7 (reading-page frame time); read by user from reading-page frames,14
+Miran,54,2,4,ac,2077.2,2077.234,user-confirmed (read from reading pages),P2 04:34.6 (reading-page frame time); read by user from reading-page frames,2
+Miran,55,6,34,cw,2114.5,2114.5,user-confirmed (read from reading pages),P2 05:11.8 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,1
+Miran,56,5,29,ac,2154,2154,user-confirmed (read from reading pages),P2 05:51.3 (reading-page frame time); read by user from reading-page frames,-11
+Miran,57,14,13,cw,2192.4,2192.434,user-confirmed (read from reading pages),P2 06:29.8 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,13
+Miran,58,22,25,ac,2230.2,2230.234,user-confirmed (read from reading pages),P2 07:07.6 (reading-page frame time); read by user from reading-page frames,-16
+Miran,59,6,5,cw,2267.7,2267.734,user-confirmed (read from reading pages),P2 07:45.1 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,-9
+Miran,60,16,1,ac,2307.2,2307.2,user-confirmed (read from reading pages),P2 08:24.5 (reading-page frame time); read by user from reading-page frames,-2
+Miran,61,24,2,cw,2344.9,2344.9,user-confirmed (read from reading pages),P2 09:02.2 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,14
+Miran,62,0,27,ac,2383.3,2383.334,user-confirmed (read from reading pages),P2 09:40.7 (reading-page frame time); read by user from reading-page frames,-11
+Miran,63,9,6,cw,2421.9,2421.934,user-confirmed (read from reading pages),P2 10:19.3 (reading-page frame time); read by user from reading-page frames,17
+Miran,64,22,20,ac,2461.2,2461.167,user-confirmed (read from reading pages),P2 10:58.5 (reading-page frame time); read by user from reading-page frames,4
+Miran,65,17,12,cw,2498.7,2498.7,user-confirmed (read from reading pages),P2 11:36.0 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,12
+Miran,66,22,15,ac,2538.3,2538.267,user-confirmed (read from reading pages),P2 12:15.6 (reading-page frame time); read by user from reading-page frames,-11
+Miran,67,13,8,cw,2575.5,2575.534,user-confirmed (read from reading pages),P2 12:52.9 (reading-page frame time); read by user from reading-page frames,-4
+Miran,68,33,16,ac,2613.2,2613.167,user-confirmed (read from reading pages),P2 13:30.5 (reading-page frame time); read by user from reading-page frames,1
+Miran,69,35,12,cw,2654.5,2654.534,user-confirmed (read from reading pages),P2 14:11.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,1
+Miran,70,21,36,ac,2693.6,2693.567,user-confirmed (read from reading pages),P2 14:50.9 (reading-page frame time); read by user from reading-page frames,-8
+Miran,71,7,24,cw,2729.6,2729.6,user-confirmed (read from reading pages),P2 15:26.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,11
+Miran,72,20,20,ac,2768.2,2768.167,user-confirmed (read from reading pages),P2 16:05.5 (reading-page frame time); read by user from reading-page frames,0
+Miran,73,20,0,cw,2806.4,2806.367,user-confirmed (read from reading pages),P2 16:43.7 (reading-page frame time); read by user from reading-page frames,-13
+Miran,74,25,14,ac,2845.5,2845.534,user-confirmed (read from reading pages),P2 17:22.9 (reading-page frame time); read by user from reading-page frames,-18
+Miran,75,23,25,cw,2882.1,2882.1,user-confirmed (read from reading pages),P2 17:59.4 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,10
+Miran,76,12,7,ac,2918.5,2918.534,user-confirmed (read from reading pages),P2 18:35.9 (reading-page frame time); read by user from reading-page frames,2
+Miran,77,28,31,cw,2955.1,2955.1,user-confirmed (read from reading pages),P2 19:12.4 (reading-page frame time); read by user from reading-page frames,6
+Marwa,78,25,3,ac,3015.9,3015.9,user-confirmed (read from reading pages),P2 20:13.2 (reading-page frame time); read by user from reading-page frames; first spin of a new dealer (longer gap before it); dealer corrected by user: Marwa from spin 78 (sheet had Miran),9
+Marwa,79,18,30,cw,3055,3054.967,user-confirmed (read from reading pages),P2 20:52.3 (reading-page frame time); read by user from reading-page frames,14
+Marwa,80,0,32,ac,3092.7,3092.667,user-confirmed (read from reading pages),P2 21:30.0 (reading-page frame time); read by user from reading-page frames,-1
+Marwa,81,7,3,cw,3131.5,3131.467,user-confirmed (read from reading pages),P2 22:08.8 (reading-page frame time); read by user from reading-page frames,-4
+Marwa,82,5,12,ac,3171,3170.967,user-confirmed (read from reading pages),P2 22:48.3 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-14
+Marwa,83,4,4,cw,3209.7,3209.667,user-confirmed (read from reading pages),P2 23:27.0 (reading-page frame time); read by user from reading-page frames,0
+Marwa,84,31,0,ac,3249.5,3249.534,user-confirmed (read from reading pages),P2 24:06.9 (reading-page frame time); read by user from reading-page frames,-11
+Marwa,85,30,32,cw,3287.8,3287.767,user-confirmed (read from reading pages),P2 24:45.1 (reading-page frame time); read by user from reading-page frames,14
+Marwa,86,15,24,ac,3328,3327.967,user-confirmed (read from reading pages),P2 25:25.3 (reading-page frame time); read by user from reading-page frames,-18
+Marwa,87,5,6,cw,3368.7,3368.7,user-confirmed (read from reading pages),P2 26:06.0 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,9
+Marwa,88,30,31,ac,3408.5,3408.5,user-confirmed (read from reading pages),P2 26:45.8 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,-11
+Marwa,89,28,6,cw,3445.9,3445.867,user-confirmed (read from reading pages),P2 27:23.2 (reading-page frame time); read by user from reading-page frames,-15
+Marwa,90,15,9,ac,3486.2,3486.234,user-confirmed (read from reading pages),P2 28:03.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,12
+Marwa,91,34,34,cw,3526.3,3526.334,user-confirmed (read from reading pages),P2 28:43.7 (reading-page frame time); read by user from reading-page frames,0
+Marwa,92,35,15,ac,3565.2,3565.234,user-confirmed (read from reading pages),P2 29:22.6 (reading-page frame time); read by user from reading-page frames,-5
+Marwa,93,11,17,cw,3603.5,3603.467,user-confirmed (read from reading pages),P3 00:03.5 (reading-page frame time); read by user from reading-page frames; next to a part boundary,6
+Marwa,94,20,28,ac,3644.2,3644.2,user-confirmed (read from reading pages),P3 00:44.2 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-8
+Marwa,95,23,15,cw,3683.5,3683.533,user-confirmed (read from reading pages),P3 01:23.5 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,15
+Marwa,96,1,6,ac,3723.9,3723.867,user-confirmed (read from reading pages),P3 02:03.9 (reading-page frame time); read by user from reading-page frames,13
+Marwa,97,10,34,cw,3761,3760.967,user-confirmed (read from reading pages),P3 02:41.0 (reading-page frame time); read by user from reading-page frames,9
+Marwa,98,11,13,ac,3799.9,3799.933,user-confirmed (read from reading pages),P3 03:19.9 (reading-page frame time); read by user from reading-page frames,2
+Marwa,99,26,9,cw,3838.5,3838.5,user-confirmed (read from reading pages),P3 03:58.5 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,9
+Marwa,100,35,27,ac,3878.7,3878.7,user-confirmed (read from reading pages),P3 04:38.7 (reading-page frame time); read by user from reading-page frames,-14
+Marwa,101,3,32,cw,3917.9,3917.933,user-confirmed (read from reading pages),P3 05:17.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-3
+Marwa,102,15,19,ac,3955.9,3955.933,user-confirmed (read from reading pages),P3 05:55.9 (reading-page frame time); read by user from reading-page frames,-1
+Marwa,103,17,0,cw,3992.8,3992.767,user-confirmed (read from reading pages),P3 06:32.8 (reading-page frame time); read by user from reading-page frames,8
+Marwa,104,29,19,ac,4033.2,4033.2,user-confirmed (read from reading pages),P3 07:13.2 (reading-page frame time); read by user from reading-page frames,-10
+Marwa,105,23,32,cw,4074.1,4074.1,user-confirmed (read from reading pages),P3 07:54.1 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,16
+Marwa,106,0,28,ac,4112.7,4112.733,user-confirmed (read from reading pages),P3 08:32.7 (reading-page frame time); read by user from reading-page frames,5
+Marwa,107,5,6,cw,4151.9,4151.867,user-confirmed (read from reading pages),P3 09:11.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,9
+Marwa,108,23,19,ac,4191.5,4191.467,user-confirmed (read from reading pages),P3 09:51.5 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,14
+Marwa,109,29,1,cw,4230.3,4230.3,user-confirmed (read from reading pages),P3 10:30.3 (reading-page frame time); read by user from reading-page frames,7
+Marwa,110,11,27,ac,4270.8,4270.767,user-confirmed (read from reading pages),P3 11:10.8 (reading-page frame time); read by user from reading-page frames,3
+Marwa,111,22,7,cw,4310.4,4310.433,user-confirmed (read from reading pages),P3 11:50.4 (reading-page frame time); read by user from reading-page frames,-3
+Marwa,112,25,8,ac,4350.5,4350.467,user-confirmed (read from reading pages),P3 12:30.5 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,-9
+Marwa,113,24,6,cw,4386.7,4386.733,user-confirmed (read from reading pages),P3 13:06.7 (reading-page frame time); read by user from reading-page frames,10
+Marwa,114,11,30,ac,4427.6,4427.6,user-confirmed (read from reading pages),P3 13:47.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,-1
+Marwa,115,15,21,cw,4467.5,4467.5,user-confirmed (read from reading pages),P3 14:27.5 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-3
+Marwa,116,15,5,ac,4506.8,4506.767,user-confirmed (read from reading pages),P3 15:06.8 (reading-page frame time); read by user from reading-page frames,-17
+Marwa,117,30,26,cw,4544.9,4544.867,user-confirmed (read from reading pages),P3 15:44.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,16
+Marwa,118,14,9,ac,4584.9,4584.9,user-confirmed (read from reading pages),P3 16:24.9 (reading-page frame time); read by user from reading-page frames,-2
+Marwa,119,20,29,cw,4623.2,4623.167,user-confirmed (read from reading pages),P3 17:03.2 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-6
+Marwa,120,7,23,ac,4664.7,4664.7,user-confirmed (read from reading pages),P3 17:44.7 (reading-page frame time); read by user from reading-page frames,14
+Marwa,121,36,27,cw,4705.7,4705.7,user-confirmed (read from reading pages),P3 18:25.7 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,2
+Deborah,122,24,8,ac,4755.7,4755.667,user-confirmed (read from reading pages),P3 19:15.7 (reading-page frame time); read by user from reading-page frames; first spin of a new dealer (longer gap before it),4
+Deborah,123,19,28,cw,4795.7,4795.667,user-confirmed (read from reading pages),P3 19:55.7 (reading-page frame time); read by user from reading-page frames,8
+Deborah,124,0,13,ac,4835.3,4835.267,user-confirmed (read from reading pages),P3 20:35.3 (reading-page frame time); read by user from reading-page frames,-12
+Deborah,125,14,31,cw,4872.9,4872.867,user-confirmed (read from reading pages),P3 21:12.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,-1
+Deborah,126,14,29,ac,4908.7,4908.7,user-confirmed (read from reading pages),P3 21:48.7 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-5
+Deborah,127,32,10,cw,4945.6,4945.633,user-confirmed (read from reading pages),P3 22:25.6 (reading-page frame time); read by user from reading-page frames,-17
+Deborah,128,4,32,ac,4983.7,4983.667,user-confirmed (read from reading pages),P3 23:03.7 (reading-page frame time); read by user from reading-page frames,3
+Deborah,129,4,31,cw,5019.9,5019.9,user-confirmed (read from reading pages),P3 23:39.9 (reading-page frame time); read by user from reading-page frames,15
+Deborah,130,4,23,ac,5056.8,5056.767,user-confirmed (read from reading pages),P3 24:16.8 (reading-page frame time); read by user from reading-page frames,-13
+Deborah,131,13,33,cw,5097.8,5097.8,user-confirmed (read from reading pages),P3 24:57.8 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,-10
+Deborah,132,31,20,ac,5138.2,5138.2,user-confirmed (read from reading pages),P3 25:38.2 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,2
+Deborah,133,13,24,cw,5176.3,5176.3,user-confirmed (read from reading pages),P3 26:16.3 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,-8
+Deborah,134,25,5,ac,5214.5,5214.467,user-confirmed (read from reading pages),P3 26:54.5 (reading-page frame time); read by user from reading-page frames,-12
+Deborah,135,17,6,cw,5251.2,5251.2,user-confirmed (read from reading pages),P3 27:31.2 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-2
+Deborah,136,23,13,ac,5290.5,5290.467,user-confirmed (read from reading pages),P3 28:10.5 (reading-page frame time); read by user from reading-page frames,5
+Deborah,137,26,6,cw,5327.4,5327.433,user-confirmed (read from reading pages),P3 28:47.4 (reading-page frame time); read by user from reading-page frames,-11
+Deborah,138,36,1,ac,5364.9,5364.933,user-confirmed (read from reading pages),P3 29:24.9 (reading-page frame time); read by user from reading-page frames,-10
+Deborah,139,16,11,cw,5401.8,5401.8,user-confirmed (read from reading pages),P3 30:01.8 (reading-page frame time); read by user from reading-page frames; next to a part boundary,7
+Deborah,140,36,14,ac,5442.1,5442.1,user-confirmed (read from reading pages),P4 00:39.4 (reading-page frame time); read by user from reading-page frames,-12
+Deborah,141,16,6,cw,5478.6,5478.567,user-confirmed (read from reading pages),P4 01:15.9 (reading-page frame time); read by user from reading-page frames,11
+Deborah,142,36,27,ac,5518,5517.967,user-confirmed (read from reading pages),P4 01:55.3 (reading-page frame time); read by user from reading-page frames,2
+Deborah,143,15,16,cw,5556.1,5556.067,user-confirmed (read from reading pages),P4 02:33.4 (reading-page frame time); read by user from reading-page frames,18
+Deborah,144,25,32,ac,5593.7,5593.734,user-confirmed (read from reading pages),P4 03:11.1 (reading-page frame time); read by user from reading-page frames,6
+Deborah,145,16,15,cw,5629,5629.034,user-confirmed (read from reading pages),P4 03:46.4 (reading-page frame time); read by user from reading-page frames,-18
+Deborah,146,14,6,ac,5664.8,5664.834,user-confirmed (read from reading pages),P4 04:22.2 (reading-page frame time); read by user from reading-page frames,15
+Deborah,147,19,20,cw,5701.2,5701.234,user-confirmed (read from reading pages),P4 04:58.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,16
+Deborah,148,8,18,ac,5738.6,5738.567,user-confirmed (read from reading pages),P4 05:35.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,-13
+Deborah,149,11,15,cw,5777.1,5777.067,user-confirmed (read from reading pages),P4 06:14.4 (reading-page frame time); read by user from reading-page frames,12
+Deborah,150,3,30,ac,5816.2,5816.167,user-confirmed (read from reading pages),P4 06:53.5 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,-17
+Deborah,151,27,6,cw,5852.9,5852.934,user-confirmed (read from reading pages),P4 07:30.3 (reading-page frame time); read by user from reading-page frames,1
+Deborah,152,36,27,ac,5888.2,5888.2,user-confirmed (read from reading pages),P4 08:05.5 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,2
+Deborah,153,4,24,cw,5926.2,5926.2,user-confirmed (read from reading pages),P4 08:43.5 (reading-page frame time); read by user from reading-page frames,-16
+Deborah,154,9,3,ac,5965.1,5965.134,user-confirmed (read from reading pages),P4 09:22.5 (reading-page frame time); read by user from reading-page frames,-8
+Deborah,155,27,18,cw,6003.7,6003.734,user-confirmed (read from reading pages),P4 10:01.1 (reading-page frame time); read by user from reading-page frames,-18
+Deborah,156,27,25,ac,6041.6,6041.634,user-confirmed (read from reading pages),P4 10:39.0 (reading-page frame time); read by user from reading-page frames,4
+Deborah,157,2,25,cw,6079,6079.034,user-confirmed (read from reading pages),P4 11:16.4 (reading-page frame time); read by user from reading-page frames,-1
+Deborah,158,25,36,ac,6114.9,6114.9,user-confirmed (read from reading pages),P4 11:52.2 (reading-page frame time); read by user from reading-page frames,-6
+Deborah,159,20,34,cw,6150.7,6150.7,user-confirmed (read from reading pages),P4 12:28.0 (reading-page frame time); read by user from reading-page frames,15
+Deborah,160,8,29,ac,6188.7,6188.7,user-confirmed (read from reading pages),P4 13:06.0 (reading-page frame time); read by user from reading-page frames,-14
+Deborah,161,14,2,cw,6225.5,6225.467,user-confirmed (read from reading pages),P4 13:42.8 (reading-page frame time); read by user from reading-page frames,-18
+Deborah,162,20,28,ac,6262.8,6262.767,user-confirmed (read from reading pages),P4 14:20.1 (reading-page frame time); read by user from reading-page frames,-8
+Deborah,163,0,26,cw,6297.4,6297.367,user-confirmed (read from reading pages),P4 14:54.7 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,1
+Deborah,164,6,33,ac,6337,6336.967,user-confirmed (read from reading pages),P4 15:34.3 (reading-page frame time); read by user from reading-page frames,-12
+Deborah,165,16,12,cw,6374.4,6374.367,user-confirmed (read from reading pages),P4 16:11.7 (reading-page frame time); read by user from reading-page frames,-12
+Deborah,166,22,28,ac,6412.7,6412.734,user-confirmed (read from reading pages),P4 16:50.1 (reading-page frame time); read by user from reading-page frames,-4
+Deborah,167,32,29,cw,6448.2,6448.234,user-confirmed (read from reading pages),P4 17:25.6 (reading-page frame time); read by user from reading-page frames,8
+Deborah,168,2,28,ac,6487.3,6487.334,user-confirmed (read from reading pages),P4 18:04.7 (reading-page frame time); read by user from reading-page frames,11
+Deborah,169,23,15,cw,6525.6,6525.567,user-confirmed (read from reading pages),P4 18:42.9 (reading-page frame time); read by user from reading-page frames,15
+Deborah,170,29,21,ac,6562.6,6562.6,user-confirmed (read from reading pages),P4 19:19.9 (reading-page frame time); read by user from reading-page frames,-12
+Deborah,171,35,14,cw,6601.3,6601.267,user-confirmed (read from reading pages),P4 19:58.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,9
+Deborah,172,33,8,ac,6641.5,6641.467,user-confirmed (read from reading pages),P4 20:38.8 (reading-page frame time); read by user from reading-page frames,6
+Miran,173,4,12,cw,6698,6698,user-confirmed (read from reading pages),P4 21:35.3 (reading-page frame time); read by user from reading-page frames; first spin of a new dealer (longer gap before it),8
+Miran,174,14,1,ac,6735.5,6735.5,user-confirmed (read from reading pages),P4 22:12.8 (reading-page frame time); read by user from reading-page frames,2
+Miran,175,23,3,cw,6770.9,6770.867,user-confirmed (read from reading pages),P4 22:48.2 (reading-page frame time); read by user from reading-page frames,-18
+Miran,176,20,33,ac,6808.8,6808.8,user-confirmed (read from reading pages),P4 23:26.1 (reading-page frame time); read by user from reading-page frames,2
+Miran,177,12,10,cw,6846.4,6846.4,user-confirmed (read from reading pages),P4 24:03.7 (reading-page frame time); read by user from reading-page frames,15
+Miran,178,4,27,ac,6883.6,6883.567,user-confirmed (read from reading pages),P4 24:40.9 (reading-page frame time); read by user from reading-page frames,-7
+Miran,179,36,12,cw,6921.2,6921.2,user-confirmed (read from reading pages),P4 25:18.5 (reading-page frame time); read by user from reading-page frames,17
+Miran,180,1,34,ac,6958.6,6958.567,user-confirmed (read from reading pages),P4 25:55.9 (reading-page frame time); read by user from reading-page frames,14
+Miran,181,16,6,cw,6996.7,6996.734,user-confirmed (read from reading pages),P4 26:34.1 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,11
+Miran,182,32,6,ac,7036.5,7036.467,user-confirmed (read from reading pages),P4 27:13.8 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,-9
+Miran,183,15,26,cw,7073.6,7073.6,user-confirmed (read from reading pages),P4 27:50.9 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,3
+Miran,184,11,18,ac,7111.9,7111.934,user-confirmed (read from reading pages),P4 28:29.3 (reading-page frame time); read by user from reading-page frames,-15
+Miran,185,1,4,cw,7150,7150,user-confirmed (read from reading pages),P4 29:07.3 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; reading page flagged low confidence,-18
+Miran,186,5,35,ac,7185.9,7185.934,user-confirmed (read from reading pages),P4 29:43.3 (reading-page frame time); read by user from reading-page frames,-15

@@ -1,0 +1,100 @@
+dealer,spin_no,winning_number,td_pocket,ball_direction,video_time_s,contact_time_s,td_quality,notes,td_to_winning_pockets
+Dealer A,1,19,12,ac,25.9,25.867,user-confirmed (read from reading pages),P1 00:25.9 (reading-page frame time); read by user from reading-page frames,7
+Dealer A,2,20,25,cw,73.6,73.633,user-confirmed (read from reading pages),P1 01:13.6 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.1 s later,17
+Dealer A,3,20,20,ac,126.6,126.633,user-confirmed (read from reading pages),P1 02:06.6 (reading-page frame time); read by user from reading-page frames,0
+Dealer A,4,1,12,cw,178.0,177.967,user-confirmed (read from reading pages),P1 02:58.0 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.8 s later,-10
+Dealer A,5,30,28,ac,227.6,227.567,user-confirmed (read from reading pages),P1 03:47.6 (reading-page frame time); read by user from reading-page frames,-17
+Dealer A,6,24,15,cw,275.8,275.833,user-confirmed (read from reading pages),P1 04:35.8 (reading-page frame time); read by user from reading-page frames,18
+Dealer A,7,13,35,ac,323.5,323.467,user-confirmed (read from reading pages),P1 05:23.5 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,15
+Dealer B,8,27,13,cw,373.0,373.033,user-confirmed (read from reading pages),P1 06:13.0 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.9 s later,-1
+Dealer B,9,20,12,ac,422.5,422.467,user-confirmed (read from reading pages),P1 07:02.5 (reading-page frame time); read by user from reading-page frames,-9
+Dealer B,10,9,0,cw,469.4,469.433,user-confirmed (read from reading pages),P1 07:49.4 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.8 s later,-10
+Dealer B,11,0,11,ac,518.8,518.8,user-confirmed (read from reading pages),P1 08:38.8 (reading-page frame time); read by user from reading-page frames,-14
+Dealer B,12,23,27,cw,568.0,567.967,user-confirmed (read from reading pages),P1 09:28.0 (reading-page frame time); read by user from reading-page frames,6
+Dealer B,13,11,19,ac,620.1,620.067,user-confirmed (read from reading pages),P1 10:20.1 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; ball bounces out and re-enters the ring about 0.7 s later,11
+Dealer B,14,33,28,cw,673.7,673.667,user-confirmed (read from reading pages),P1 11:13.7 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.6 s later,-10
+Dealer B,15,17,15,ac,725.3,725.267,user-confirmed (read from reading pages),P1 12:05.3 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.8 s later,6
+Dealer B,16,36,7,cw,775.0,775.0,user-confirmed (read from reading pages),P1 12:55.0 (reading-page frame time); read by user from reading-page frames,-18
+Dealer B,17,13,16,ac,824.2,824.233,user-confirmed (read from reading pages),P1 13:44.2 (reading-page frame time); read by user from reading-page frames,-9
+Dealer B,18,22,8,cw,873.8,873.767,user-confirmed (read from reading pages),P1 14:33.8 (reading-page frame time); read by user from reading-page frames,12
+Dealer B,19,11,9,ac,922.0,922.033,user-confirmed (read from reading pages),P1 15:22.0 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.7 s later,-13
+Dealer B,20,11,19,cw,973.9,973.933,user-confirmed (read from reading pages),P1 16:13.9 (reading-page frame time); read by user from reading-page frames,11
+Dealer B,21,1,17,ac,1022.9,1022.9,user-confirmed (read from reading pages),P1 17:02.9 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,15
+Dealer B,22,14,15,cw,1072.4,1072.4,user-confirmed (read from reading pages),P1 17:52.4 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,-14
+Dealer B,23,27,2,ac,1119.2,1119.2,user-confirmed (read from reading pages),P1 18:39.2 (reading-page frame time); read by user from reading-page frames,5
+Dealer B,24,1,30,cw,1167.7,1167.667,user-confirmed (read from reading pages),P1 19:27.7 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,8
+Dealer B,25,20,31,ac,1223.0,1222.967,user-confirmed (read from reading pages),P1 20:23.0 (reading-page frame time); read by user from reading-page frames,-2
+Dealer B,26,5,11,cw,1269.8,1269.767,user-confirmed (read from reading pages),"P1 21:09.8 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; ball bounces out and re-enters the ring about 0.8 s later; video check: at the labelled frame the ball was already rim-riding at about 28 pockets/s relative to the rotor, so the label was not the touchdown; extrapolating its path back about 0.9 s to the turret gives pockets 11-8, consistent with the user read; user comment: touchdown occurs as ball emerges behind turret, instead of dark near side. Check.",5
+Dealer B,27,18,29,ac,1319.6,1319.6,user-confirmed (read from reading pages),P1 21:59.6 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.6 s later,-1
+Dealer B,28,6,16,cw,1371.8,1371.8,user-confirmed (read from reading pages),P1 22:51.8 (reading-page frame time); read by user from reading-page frames,-11
+Dealer B,29,32,11,ac,1423.5,1423.533,user-confirmed (read from reading pages),P1 23:43.5 (reading-page frame time); read by user from reading-page frames,-13
+Dealer B,30,22,16,cw,1470.2,1470.233,user-confirmed (read from reading pages),P1 24:30.2 (reading-page frame time); read by user from reading-page frames,7
+Dealer B,31,14,8,ac,1519.7,1519.733,user-confirmed (read from reading pages),P1 25:19.7 (reading-page frame time); read by user from reading-page frames,9
+Dealer B,32,15,35,cw,1566.0,1566.033,user-confirmed (read from reading pages),P1 26:06.0 (reading-page frame time); read by user from reading-page frames,5
+Dealer B,33,27,11,ac,1617.3,1617.3,user-confirmed (read from reading pages),P1 26:57.3 (reading-page frame time); read by user from reading-page frames; user comment: Foreshortening/depth perception,-3
+Dealer B,34,13,19,cw,1665.0,1664.967,user-confirmed (read from reading pages),P1 27:45.0 (reading-page frame time); read by user from reading-page frames,9
+Dealer B,35,17,32,ac,1710.2,1710.2,user-confirmed (read from reading pages),P1 28:30.2 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,7
+Dealer B,36,23,0,cw,1756.6,1756.567,user-confirmed (read from reading pages),P1 29:16.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,17
+Dealer B,37,10,14,ac,1802.8,1802.833,user-confirmed (read from reading pages),P2 00:02.8 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,-7
+Dealer B,38,23,30,cw,1853.6,1853.567,user-confirmed (read from reading pages),P2 00:53.6 (reading-page frame time); read by user from reading-page frames,2
+Dealer B,39,13,28,ac,1907.0,1907.0,user-confirmed (read from reading pages),P2 01:47.0 (reading-page frame time); read by user from reading-page frames,17
+Dealer B,40,21,35,cw,1956.5,1956.5,user-confirmed (read from reading pages),P2 02:36.5 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.3 s later,8
+Dealer B,41,17,22,ac,2009.5,2009.467,user-confirmed (read from reading pages),P2 03:29.5 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence; ball bounces out and re-enters the ring about 0.7 s later,17
+Dealer B,42,3,4,cw,2063.2,2063.167,user-confirmed (read from reading pages),P2 04:23.2 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.9 s later,-6
+Dealer B,43,20,4,ac,2107.8,2107.8,user-confirmed (read from reading pages),P2 05:07.8 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.7 s later,-17
+Dealer B,44,5,0,cw,2161.8,2161.767,user-confirmed (read from reading pages),P2 06:01.8 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.8 s later,-18
+Dealer C,45,3,25,ac,2217.6,2217.567,user-confirmed (read from reading pages),P2 06:57.6 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,-9
+Dealer C,46,2,31,cw,2270.1,2270.133,user-confirmed (read from reading pages),P2 07:50.1 (reading-page frame time); read by user from reading-page frames,17
+Dealer C,47,23,15,ac,2323.1,2323.1,user-confirmed (read from reading pages),P2 08:43.1 (reading-page frame time); read by user from reading-page frames,15
+Dealer C,48,4,10,cw,2373.7,2373.733,user-confirmed (read from reading pages),P2 09:33.7 (reading-page frame time); read by user from reading-page frames,-14
+Dealer C,49,23,16,ac,2428.1,2428.133,user-confirmed (read from reading pages),P2 10:28.1 (reading-page frame time); read by user from reading-page frames,-4
+Dealer C,50,27,9,cw,2478.9,2478.933,user-confirmed (read from reading pages),P2 11:18.9 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.3 s later,-16
+Dealer C,51,2,8,ac,2527.8,2527.8,user-confirmed (read from reading pages),P2 12:07.8 (reading-page frame time); read by user from reading-page frames,-10
+Dealer C,52,20,19,cw,2578.1,2578.1,user-confirmed (read from reading pages),P2 12:58.1 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.8 s later,-16
+Dealer C,53,0,4,ac,2629.2,2629.233,user-confirmed (read from reading pages),P2 13:49.2 (reading-page frame time); read by user from reading-page frames,-4
+Dealer C,54,3,0,cw,2680.9,2680.867,user-confirmed (read from reading pages),P2 14:40.9 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.6 s later,-2
+Dealer C,55,11,8,ac,2732.0,2732.0,user-confirmed (read from reading pages),P2 15:32.0 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.7 s later,-2
+Dealer C,56,8,17,cw,2783.1,2783.1,user-confirmed (read from reading pages),P2 16:23.1 (reading-page frame time); read by user from reading-page frames,8
+Dealer C,57,10,27,ac,2835.8,2835.833,user-confirmed (read from reading pages),P2 17:15.8 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,7
+Dealer C,58,25,22,cw,2890.1,2890.133,user-confirmed (read from reading pages),P2 18:10.1 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,16
+Dealer C,59,25,12,ac,2940.9,2940.933,user-confirmed (read from reading pages),P2 19:00.9 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.9 s later; user comment: Foreshortening/depth perception,11
+Dealer C,60,31,26,cw,3231.4,3231.367,user-confirmed (read from reading pages),P2 23:51.4 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; ball bounces out and re-enters the ring about 0.6 s later,-10
+Dealer C,61,5,28,ac,3285.7,3285.667,user-confirmed (read from reading pages),P2 24:45.7 (reading-page frame time); read by user from reading-page frames,-13
+Dealer C,62,19,17,cw,3341.4,3341.4,user-confirmed (read from reading pages),P2 25:41.4 (reading-page frame time); read by user from reading-page frames,-5
+Dealer C,63,4,6,ac,3397.9,3397.933,user-confirmed (read from reading pages),P2 26:37.9 (reading-page frame time); read by user from reading-page frames,-6
+Dealer C,64,6,27,cw,3450.6,3450.633,user-confirmed (read from reading pages),P2 27:30.6 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user,-1
+Dealer C,65,9,12,ac,3504.0,3503.967,user-confirmed (read from reading pages),P2 28:24.0 (reading-page frame time); read by user from reading-page frames,-6
+Dealer C,66,15,28,cw,3556.4,3556.433,user-confirmed (read from reading pages),P2 29:16.4 (reading-page frame time); read by user from reading-page frames,7
+Dealer C,67,20,1,ac,3603.2,3603.167,user-confirmed (read from reading pages),"P3 00:03.2 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence; REPLAY page: the touchdown is not in the live feed; times are slow-motion replay times of the overview camera (video_time_s = P3 start + replay time, not a live-video time)",1
+Dealer C,68,33,20,cw,3656.4,3656.433,user-confirmed (read from reading pages),"P3 00:56.4 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence; ball bounces out and re-enters the ring about 1.2 s later; user comment: Ball rolls back onto wheel rim after touchdown at 20 (not 5, foreshortening/depth perception) and went through a second touchdown which we are not interested.",-2
+Dealer C,69,26,15,ac,3715.8,3715.8,user-confirmed (read from reading pages),P3 01:55.8 (reading-page frame time); read by user from reading-page frames,-3
+Dealer C,70,17,17,cw,3769.0,3768.967,user-confirmed (read from reading pages),P3 02:49.0 (reading-page frame time); read by user from reading-page frames,0
+Dealer C,71,1,3,ac,3823.9,3823.9,user-confirmed (read from video; slow-motion overhead replay),P3 03:43.9 (reading-page frame time); ball first seen on the reading page; TD read by user from the slow-motion overhead-camera replay; user comment: Slow motion with overhead camera shows touchdown at 3 very clearly.,-12
+Dealer C,72,15,26,cw,3879.2,3879.167,user-confirmed (read from reading pages),P3 04:39.2 (reading-page frame time); read by user from reading-page frames,3
+Dealer C,73,26,21,ac,3929.3,3929.333,user-confirmed (read from reading pages),P3 05:29.3 (reading-page frame time); read by user from reading-page frames,-6
+Dealer D,74,6,19,cw,4080.4,4080.4,user-confirmed (read from video; slow-motion overhead replay),P3 08:00.4 (reading-page frame time); TD visible on the reading page; TD read by user from the slow-motion overhead-camera replay; user comment: Slow motion with overhead camera shows touchdown at 19.,7
+Dealer D,75,10,20,ac,4131.1,4131.133,user-confirmed (read from reading pages),P3 08:51.1 (reading-page frame time); read by user from reading-page frames,-6
+Dealer D,76,36,16,cw,4183.2,4183.2,user-confirmed (read from reading pages),P3 09:43.2 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,-8
+Dealer D,77,1,1,ac,4233.9,4233.933,user-confirmed (read from reading pages),P3 10:33.9 (reading-page frame time); read by user from reading-page frames,0
+Dealer D,78,34,8,cw,4281.3,4281.333,user-confirmed (read from reading pages),P3 11:21.3 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.8 s later,-7
+Dealer D,79,17,0,ac,4333.0,4333.0,user-confirmed (read from reading pages),P3 12:13.0 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; ball bounces out and re-enters the ring about 0.8 s later,8
+Dealer D,80,17,20,cw,4380.8,4380.767,user-confirmed (read from reading pages),P3 13:00.8 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.1 s later,-16
+Dealer D,81,25,28,ac,4427.5,4427.5,user-confirmed (read from reading pages),P3 13:47.5 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.8 s later,12
+Dealer D,82,1,27,cw,4479.9,4479.867,user-confirmed (read from reading pages),P3 14:39.9 (reading-page frame time); read by user from reading-page frames,12
+Dealer D,83,22,11,ac,4531.7,4531.667,user-confirmed (read from reading pages),P3 15:31.7 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,14
+Dealer D,84,6,31,cw,4584.4,4584.367,user-confirmed (read from reading pages),P3 16:24.4 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,-16
+Dealer D,85,19,16,ac,4638.4,4638.433,user-confirmed (read from reading pages),P3 17:18.4 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.8 s later,-18
+Dealer D,86,33,20,cw,4693.2,4693.2,user-confirmed (read from reading pages),P3 18:13.2 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.7 s later,-2
+Dealer D,87,18,30,ac,4743.7,4743.733,user-confirmed (read from reading pages),P3 19:03.7 (reading-page frame time); read by user from reading-page frames,14
+Dealer D,88,3,26,cw,4794.9,4794.933,user-confirmed (read from reading pages),P3 19:54.9 (reading-page frame time); read by user from reading-page frames,-1
+Dealer D,89,15,1,ac,4847.7,4847.733,user-confirmed (read from reading pages),P3 20:47.7 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.9 s later,16
+Dealer D,90,35,29,cw,4894.1,4894.067,user-confirmed (read from reading pages),P3 21:34.1 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,4
+Dealer D,91,14,35,ac,4943.7,4943.733,user-confirmed (read from reading pages),P3 22:23.7 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,-9
+Dealer D,92,2,7,cw,4996.5,4996.5,user-confirmed (read from reading pages),P3 23:16.5 (reading-page frame time); read by user from reading-page frames,12
+Dealer D,93,9,27,ac,5043.5,5043.467,user-confirmed (read from reading pages),P3 24:03.5 (reading-page frame time); ball first seen (contact hidden by turret / dark near side) - read by user; user comment: Ball touchdown at 27 just before being blocked by turret.,16
+Dealer D,94,25,24,cw,5095.8,5095.767,user-confirmed (read from reading pages),P3 24:55.8 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,-13
+Dealer D,95,26,32,ac,5145.2,5145.233,user-confirmed (read from reading pages),P3 25:45.2 (reading-page frame time); read by user from reading-page frames; reading page flagged low confidence,-2
+Dealer D,96,35,9,cw,5193.9,5193.9,user-confirmed (read from reading pages),P3 26:33.9 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.8 s later,7
+Dealer D,97,0,23,ac,5243.2,5243.2,user-confirmed (read from reading pages),P3 27:23.2 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 1.0 s later,-17
+Dealer D,98,0,31,cw,5289.8,5289.767,user-confirmed (read from reading pages),P3 28:09.8 (reading-page frame time); read by user from reading-page frames,11
+Dealer D,99,2,13,ac,5341.2,5341.2,user-confirmed (read from reading pages),P3 29:01.2 (reading-page frame time); read by user from reading-page frames; ball bounces out and re-enters the ring about 0.7 s later,-6
